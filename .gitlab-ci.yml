@@ -4,15 +4,10 @@ stages:
   - test
   - build
 
-cache:
-  paths:
-    - build/
-
 test:
   stage: test
   script:
     - imagecaster check
-  cache: {}
 
 build:
   stage: build
