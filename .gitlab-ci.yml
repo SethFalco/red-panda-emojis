@@ -32,6 +32,7 @@ pages:
     - mkdir public
     - mv build/montages/* public
     - mv build/export emojis
+    - echo '<!DOCTYPE html><html lang="en"><title>Red Panda Emojis</title><meta http-equiv="refresh" content="0; url=&quot;https://sethfalco.gitlab.io/red-panda-emojis/red-panda-emojis.zip&quot;"><body>Downloading red panda emojis…</body></html>' > public/index.html
     - zip -r public/red-panda-emojis.zip README.md LICENSE emojis
   artifacts:
     paths:
