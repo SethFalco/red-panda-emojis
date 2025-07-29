@@ -5,14 +5,14 @@ build:
     exif:
       - {tag: "OwnerName", value: "Moriko, DefectiveFox, Vukory, and Contributors"}
       - {tag: "Artist", value: "Moriko, DefectiveFox, Vukory, and Contributors"}
-      - {tag: "Copyright", value: "https://gitlab.com/SethFalco/red-panda-emotes/blob/main/LICENSE"}
-      - {tag: "ImageDescription", value: "The ${DATA_NAME} emote from the Red Panda Emotes."}
+      - {tag: "Copyright", value: "https://gitlab.com/SethFalco/red-panda-emojis/blob/main/LICENSE"}
+      - {tag: "ImageDescription", value: "The ${DATA_NAME} emoji from the Red Panda Emojis."}
     iptc:
       - {tag: "Source", value: "Moriko, DefectiveFox, Vukory, and Contributors"}
-      - {tag: "Contact", value: "https://gitlab.com/SethFalco/red-panda-emotes"}
-      - {tag: "CopyrightNotice", value: "https://gitlab.com/SethFalco/red-panda-emotes/blob/main/LICENSE"}
-      - {tag: "Headline", value: "The ${DATA_NAME} emote from the Red Panda Emotes."}
-      - {tag: "Keyword", value: "emote"}
+      - {tag: "Contact", value: "https://gitlab.com/SethFalco/red-panda-emojis"}
+      - {tag: "CopyrightNotice", value: "https://gitlab.com/SethFalco/red-panda-emojis/blob/main/LICENSE"}
+      - {tag: "Headline", value: "The ${DATA_NAME} emoji from the Red Panda Emojis."}
+      - {tag: "Keyword", value: "emoji"}
   resize:
     filter: "Catrom"
     geometries: [512, 256, 128, 112, 72, 64, 56, 36, 28]
@@ -32,7 +32,7 @@ build:
 montages:
   - name: "colors"
     source: "regex:build/export/(?:.+)/128x/.?pandaAww\\.png"
-  - name: "emotes"
+  - name: "emojis"
     source: "build/export/original/128x/"
 checks:
   power-of-two:

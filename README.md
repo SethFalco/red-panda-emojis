@@ -1,22 +1,22 @@
-# Red Panda Emotes
+# Red Panda Emojis
 
-[![Build](https://gitlab.com/SethFalco/red-panda-emotes/badges/main/pipeline.svg)](https://gitlab.com/SethFalco/red-panda-emotes/commits/main) [![Download](https://img.shields.io/badge/download-emotes-blue)](https://gitlab.com/SethFalco/red-panda-emotes/-/jobs/artifacts/main/download?job=build)
+[![Build](https://gitlab.com/SethFalco/red-panda-emojis/badges/main/pipeline.svg)](https://gitlab.com/SethFalco/red-panda-emojis/commits/main) [![Download](https://img.shields.io/badge/download-emojis-blue)](https://gitlab.com/SethFalco/red-panda-emojis/-/jobs/artifacts/main/download?job=build)
 
 ## About
 
-Cute red panda emotes! Anyone is welcome to use, modify, derive, and redistribute the emotes and project files, even commercially.
+Cute red panda emojis! Anyone is welcome to use, modify, derive, and redistribute the emojis and project files, even commercially.
 
 Please don't ask for permission to use them, just use them. As part of the license, you should attribute the original authors or link to this repository. ^-^'
 
-## Emotes
+## Emojis
 
 ### Colors
 
-![All Colors](https://gitlab.com/SethFalco/red-panda-emotes/-/jobs/artifacts/main/raw/build/montages/colors.png?job=build)
+![A montage featuring the pandaAww emoji in all exported colors.](https://gitlab.com/SethFalco/red-panda-emojis/-/jobs/artifacts/main/raw/build/montages/colors.png?job=build)
 
-### Emotes
+### Emojis
 
-![All Emotes](https://gitlab.com/SethFalco/red-panda-emotes/-/jobs/artifacts/main/raw/build/montages/emotes.png?job=build)
+![Every red panda emoji in the pack exported in their original color.](https://gitlab.com/SethFalco/red-panda-emojis/-/jobs/artifacts/main/raw/build/montages/emojis.png?job=build)
 
 ## Attribution
 
@@ -25,7 +25,7 @@ Assets have been contributed by the following illustrators:
 * [Moriko](https://morikomasuyoart.artstation.com)
 * [DefectiveFox](https://defectivefox.com)
 * [Vukory](https://vukory.art)
-* [All Other Contributors](https://gitlab.com/SethFalco/red-panda-emotes/-/graphs/main)
+* [All Other Contributors](https://gitlab.com/SethFalco/red-panda-emojis/-/graphs/main)
 
 ## Technical Details
 

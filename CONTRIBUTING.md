@@ -6,7 +6,7 @@ This documents information that should help you get started in contributing to t
 
 ## License
 
-This section is only relevant to submissions of new assets for the repository. If your contribution is feedback or an emote idea, this does not apply to you.
+This section is only relevant to submissions of new assets for the repository. If your contribution is feedback or an emoji idea, this does not apply to you.
 
 Before contributing, please keep in mind that this repository is under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
@@ -22,16 +22,16 @@ Read the terms before submitting assets to the project. A [human readable summar
 |---|---|
 | `src/static/` | The full quality static emojis. |
 | `src/masks/` | Grayscale mask that show what parts of the image can have it's color altered. |
-| `src/projects/` | Project files for each emote. |
+| `src/projects/` | Project files for each emoji. |
 | `LICENSE` | The license your contribution will be published under. |
-| `README.md` | Information and attributions to serve to anyone receiving the emotes. |
+| `README.md` | Information and attributions to serve to anyone receiving the emojis. |
 
 ### Naming and Guidelines
 
 | Type | Name | Notes |
 |---|---|---|
-| Emotes | pandaXyz.png | Minimum of 512x512, should still look good at 64x64. |
-| Masks | pandaXyz.mask.png | Same size as emote. Not required if every pixel should be modulated for color variations. |
+| Emojis | pandaXyz.png | Minimum of 512x512, should still look good at 64x64. |
+| Masks | pandaXyz.mask.png | Same size as emoji. Not required if every pixel should be modulated for color variations. |
 | Projects | pandaXyz.ora | You can use any program to draw, but the result must be an ORA file. |
 
 ### Reference Sheet
@@ -48,13 +48,13 @@ Read the terms before submitting assets to the project. A [human readable summar
 | Ears | `#430700` |
 | Mouth | `#950500`, `#f966e0` |
 
-## Adding Emotes
+## Adding Emojis
 
-There are three acceptable ways to include new emotes in the repository, in order of preference:
+There are three acceptable ways to include new emojis in the repository, in order of preference:
 
-1. Fork the repository on GitLab, and use `git` to push your emote and open a merge request.
-1. If you don't know how to open a merge request, you can open an [issue](https://gitlab.com/SethFalco/red-panda-emotes/issues) with your emote attached.
-1. If you don't have a GitLab account and are reluctant to make one, email [Seth Falco](mailto:seth@falco.fun) and attach your emote.
+1. Fork the repository on GitLab, and use `git` to push your emoji and open a merge request.
+1. If you don't know how to open a merge request, you can open an [issue](https://gitlab.com/SethFalco/red-panda-emojis/issues) with your emoji attached.
+1. If you don't have a GitLab account and are reluctant to make one, email [Seth Falco](mailto:seth@falco.fun) and attach your emoji.
 
 If you follow either option 2 or 3, you must do the following in your message:
 
