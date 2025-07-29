@@ -3,6 +3,7 @@ image: elypia/imagecaster:0.4.0-q8
 stages:
   - test
   - build
+  - deploy
 
 test:
   stage: test
@@ -20,3 +21,20 @@ build:
       - LICENSE
       - build/montages/*
       - build/export/*
+
+pages:
+  image: leplusorg/compress
+  stage: deploy
+  needs:
+    - job: build
+      artifacts: true
+  script:
+    - mkdir public
+    - mv build/montages/* public
+    - mv build/export emojis
+    - zip -r public/red-panda-emojis.zip README.md LICENSE emojis
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
