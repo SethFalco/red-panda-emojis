@@ -1,6 +1,6 @@
 # Red Panda Emojis
 
-[![Build](https://gitlab.com/SethFalco/red-panda-emojis/badges/main/pipeline.svg)](https://gitlab.com/SethFalco/red-panda-emojis/commits/main) [![Download](https://img.shields.io/badge/download-emojis-blue)](https://gitlab.com/SethFalco/red-panda-emojis/-/jobs/artifacts/main/download?job=build)
+[![Build](https://gitlab.com/SethFalco/red-panda-emojis/badges/main/pipeline.svg)](https://gitlab.com/SethFalco/red-panda-emojis/commits/main) [![Download](https://img.shields.io/badge/download-emojis-blue)](https://sethfalco.gitlab.io/red-panda-emojis/red-panda-emojis.zip)
 
 ## About
 
@@ -12,11 +12,11 @@ Please don't ask for permission to use them, just use them. As part of the licen
 
 ### Colors
 
-![A montage featuring the pandaAww emoji in all exported colors.](https://gitlab.com/SethFalco/red-panda-emojis/-/jobs/artifacts/main/raw/build/montages/colors.png?job=build)
+![A montage featuring the pandaAww emoji in all exported colors.](https://sethfalco.gitlab.io/red-panda-emojis/colors.png)
 
 ### Emojis
 
-![Every red panda emoji in the pack exported in their original color.](https://gitlab.com/SethFalco/red-panda-emojis/-/jobs/artifacts/main/raw/build/montages/emojis.png?job=build)
+![Every red panda emoji in the pack exported in their original color.](https://sethfalco.gitlab.io/red-panda-emojis/emojis.png)
 
 ## Attribution
 
