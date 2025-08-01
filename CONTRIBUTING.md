@@ -30,9 +30,9 @@ Read the terms before submitting assets to the project. A [human readable summar
 
 | Type | Name | Notes |
 |---|---|---|
-| Emojis | pandaXyz.png | Minimum of 512x512, should still look good at 64x64. |
-| Masks | pandaXyz.mask.png | Same size as emoji. Not required if every pixel should be modulated for color variations. |
-| Projects | pandaXyz.ora | You can use any program to draw, but the result must be an ORA file. |
+| Emojis | `*.png` | Minimum of 512x512, should still look good at 64x64. |
+| Masks | `*.mask.png` | Same size as emoji. Not required if every pixel should be modulated for color variations. |
+| Projects | `*.ora` | You can use any program to draw, but the result must be an ORA file. |
 
 ### Reference Sheet
 

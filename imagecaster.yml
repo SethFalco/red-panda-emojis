@@ -31,7 +31,7 @@ build:
       - {name: "yellow", saturation: 115, hue: 115}
 montages:
   - name: "colors"
-    source: "regex:build/export/(?:.+)/128x/.?pandaAww\\.png"
+    source: "regex:build/export/(?:.+)/128x/.?aww\\.png"
   - name: "emojis"
     source: "build/export/original/128x/"
 checks:
@@ -53,8 +53,8 @@ checks:
         - "$1.png"
   naming-convention:
     - source: "src/static/"
-      pattern: "^panda[A-Z][A-Za-z\\d]+\\.png$"
+      pattern: "^[a-z\\d_]+\\.png$"
     - source: "src/masks/"
-      pattern: "^panda[A-Z][A-Za-z\\d]+\\.mask\\.png$"
+      pattern: "^[a-z\\d_]+\\.mask\\.png$"
     - source: "src/projects/"
-      pattern: "^panda[A-Z][A-Za-z\\d]+\\.ora$"
+      pattern: "^[a-z\\d_]+\\.ora$"

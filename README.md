@@ -18,6 +18,14 @@ Please don't ask for permission to use them, just use them. As part of the licen
 
 ![Every red panda emoji in the pack exported in their original color.](https://sethfalco.gitlab.io/red-panda-emojis/emojis.png)
 
+## Emoji Names
+
+The red panda emojis are generally named after the closest matching emoji in the [Unicode standard](https://home.unicode.org). There are a few exceptions if no Unicode emoji is a good match.
+
+When there are multiple alternatives of the same emoji, it is suffixed with a short string that represents the difference. For example, `cookie` and `cookie3`.
+
+When reuploading emojis to other platforms, you're welcome to use a prefix of your choosing, or rename emojis as you see fit. For example, you may choose to upload the `trumpet` emoji as `redpanda_toot` — this is perfectably acceptable.
+
 ## Attribution
 
 Assets have been contributed by the following illustrators:
